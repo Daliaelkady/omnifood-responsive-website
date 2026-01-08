@@ -6,7 +6,7 @@ Built with **HTML, CSS, JavaScript**, focusing on **responsive design, animation
 ---
 
 ## 🚀 Live Demo  
-🔗 [omnifood-da.netlify.app](https://omnifood-da.netlify.app)  
+🔗 [[omnifood-da.netlify.app](https://omnifood-da.netlify.app)  ](https://omnifood-responsive-website-one.vercel.app/)
 
 ---
 
